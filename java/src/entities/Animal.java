@@ -1,6 +1,6 @@
-package Entities;
+package entities;
 
-import Sounds.AnimalSound;
+import sounds.AnimalSound;
 
 public class Animal {
     private String Name;

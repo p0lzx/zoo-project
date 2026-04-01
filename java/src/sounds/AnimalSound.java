@@ -1,4 +1,4 @@
-package Sounds;
+package sounds;
 
 public class AnimalSound extends Sound {
 }
